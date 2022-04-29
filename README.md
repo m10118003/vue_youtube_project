@@ -1,4 +1,4 @@
-# youtube_vue_project  
+# vue_youtube_project  
 In this Vue project, I use the pug-HTML, CSS-preprocessor the scss, and Tailwind CSS, also fit the RWD.  
 
 If the steps successfully working, it may visualize.  
