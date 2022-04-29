@@ -41,11 +41,11 @@ npm install
 
 3. Go to check the Console/System & Security/System →   
 
-==Advanced system settings==    
+  ==Advanced system settings==    
 
-Find the environment variable and Path, then Surf.  
+  Find the environment variable and Path, then Surf.  
 
-Find your npm directory and assign it to npm directory, normally will like 
+  Find your npm directory and assign it to npm directory, normally will like 
 ```
 C:\Users\username\AppData\Roaming\npm (username, Change to your computer user mane!)  
 ```  
