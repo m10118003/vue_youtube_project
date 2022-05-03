@@ -1,4 +1,4 @@
-# vue_youtube_project  
+# youtube_vue_project  
 In this Vue project, I use the pug-HTML, CSS-preprocessor the scss, and Tailwind CSS, also fit the RWD.  
 
 If the steps successfully working, it may visualize.  
@@ -41,11 +41,11 @@ npm install
 
 3. Go to check the Console/System & Security/System →   
 
-  ==Advanced system settings==    
+==Advanced system settings==    
 
-  Find the environment variable and Path, then Surf.  
+Find the environment variable and Path, then Surf.  
 
-  Find your npm directory and assign it to npm directory, normally will like 
+Find your npm directory and assign it to npm directory, normally will like 
 ```
 C:\Users\username\AppData\Roaming\npm (username, Change to your computer user mane!)  
 ```  
