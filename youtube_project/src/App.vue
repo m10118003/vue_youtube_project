@@ -176,7 +176,7 @@
           <p class="text-xs text-gray-600">Some creator</p>
           <p class="text-xs text-gray-600">78K views &bull; 9 months ago</p>
         </div>
-        <div class="mr-1 my-2"><img src="http://www.placekitten.com/210/118">
+        <div class="mr-1 my-2"><img src="https://i.imgur.com/vofEo89.png">
           <p class="text-sm py-1">Some title for the video</p>
           <p class="text-xs text-gray-600">Some creator</p>
           <p class="text-xs text-gray-600">426K views &bull; 10 months ago</p>
